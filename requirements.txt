@@ -5,3 +5,5 @@ langchain_groq
 python-dotenv
 ipykernel
 langchain-neo4j
+langchain-experimental
+lamini
