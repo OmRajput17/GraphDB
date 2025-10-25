@@ -7,3 +7,6 @@ ipykernel
 langchain-neo4j
 langchain-experimental
 lamini
+langgraph
+langsmith
+typing_extensions
