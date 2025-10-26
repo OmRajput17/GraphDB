@@ -10,3 +10,5 @@ lamini
 langgraph
 langsmith
 typing_extensions
+arxiv
+wikipedia
