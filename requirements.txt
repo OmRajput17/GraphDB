@@ -12,3 +12,9 @@ langsmith
 typing_extensions
 arxiv
 wikipedia
+cassio
+tiktoken
+langchainhub
+chromadb
+langchain_huggingface
+sentence-transformers
